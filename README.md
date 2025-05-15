@@ -1,4 +1,4 @@
-![Bannière GitHub](img/banniere_github_hugo.png)
+![Bannière GitHub](img/banniere_github.png)
 
 # 👋 Hi there, I'm Hugo!
 
