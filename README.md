@@ -8,9 +8,9 @@ I'm a **Front-End Developer** specialized in **React** and a passionate **Produc
 
 ## 🛠️ What I Do
 
-- ⚛️ **Front-End Development** — Pixel-perfect implementation with modern React, TypeScript, TailwindCSS, and more.
-- 🎨 **UX/UI Design** — From user research to high-fidelity prototypes, I design with empathy and intention.
-- 🧠 **Product Thinking** — I approach every project with a deep understanding of business needs and user goals.
+- ⚛️ **Front-End Development** • Pixel-perfect implementation with modern React, TypeScript, TailwindCSS, and more.
+- 🎨 **UX/UI Design** • From user research to high-fidelity prototypes, I design with empathy and intention.
+- 🧠 **Product Thinking** • I approach every project with a deep understanding of business needs and user goals.
 
 ---
 
